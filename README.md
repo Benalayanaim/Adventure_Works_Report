@@ -10,16 +10,20 @@ THE OBJECTIVE :
 
 
 #important information
+
 IN DATA VISUALIZATION :
 
 
 Always ask yourself the three key questions
+
 • What type of data are you visualizing, what are you communicating, and who is the end user?
 
 
 Strive for clarity and simplicity above all else
+
 • “Perfection is achieved not when there’s nothing more to add, but when there’s nothing left to take away”
 
 
 Focus on creating clear narratives and intuitive user experiences
+
 • Use bookmarks, drillthroughs, tooltips and navigation buttons to seamlessly guide users through reports
